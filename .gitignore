@@ -1,0 +1,9 @@
+/distributed
+.idea
+#*.json
+#*.jsonl
+/DAMO_ConvAI*
+.DS_Store
+/pretrain_data
+/script
+/model
